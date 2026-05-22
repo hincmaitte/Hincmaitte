@@ -1,65 +1,60 @@
-# Hi, I'm Maitte Hinc 👋
+# 👋 Hola, soy Maitte Hinc
 
-💻 Technology Repair & Support Technician  
-🔧 Founder of **HincTech**  
-👩‍🏫 Technology Instructor  
-🌱 Currently learning **Web Development**
+💻 Técnica en reparación y soporte tecnológico  
+🔧 Fundadora de HincTech  
+👩‍🏫 Instructora de informática  
+🚀 Desarrollo soluciones digitales utilizando inteligencia artificial  
 
-I have almost **5 years of experience in the tech world**.  
-I currently run my own technical service called **HincTech**, where I provide technology repair and support services.
+Tengo casi 5 años de experiencia en el área técnica, trabajando en reparación de celulares, PC, soporte tecnológico y atención al cliente a través de mi servicio técnico **HincTech**.
 
-In addition, I work as an **instructor at a training institute**, helping others learn about technology.
+Actualmente me estoy introduciendo al mundo del desarrollo de soluciones digitales con IA, explorando nuevas herramientas, agentes de inteligencia artificial y flujos de trabajo orientados al desarrollo moderno.
 
-Right now I'm focused on **learning web development**, combining **AI-assisted development** with traditional programming while building projects and gaining real-world experience.
-
-This GitHub is where I share **my projects and my learning journey as a developer**.
+Aunque no soy programadora tradicional, utilizo IA como herramienta de desarrollo para crear proyectos digitales, páginas web y soluciones funcionales mientras continúo formándome en este nuevo entorno tecnológico.
 
 ---
 
-# 🌐 Connect with me
+## 🚀 Sobre mi experiencia actual
 
-💼 LinkedIn  
-https://www.linkedin.com/in/maitte-hinc-729657401
+Recientemente participé en el desarrollo de una plataforma para un instituto educativo, siendo mi primer proyecto validado y puesto en funcionamiento.
 
----
+Mi trabajo estuvo enfocado en:
 
-# 🚀 Technologies I'm Learning
+- Diseño y estructura de la página
+- Organización del contenido
+- Desarrollo funcional de la primera etapa del proyecto
+- Carga de información y armado general de la plataforma
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+La segunda etapa, relacionada con bases de datos y publicación final, fue desarrollada por otro profesional del área.
 
 ---
 
-# 🤖 AI Tools I Use
+## 📚 Sobre este GitHub
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+Este perfil refleja mi proceso de aprendizaje y crecimiento dentro del mundo del desarrollo digital con IA.
 
-![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-![Claude](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge)
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hincmaitte&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hincmaitte&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Hincmaitte&theme=dark)
+Acá voy compartiendo:
+- Proyectos personales
+- Experimentos y pruebas
+- Herramientas y páginas que desarrollo
+- Proyectos open source y privados
+- Mi evolución dentro del desarrollo tecnológico moderno
 
 ---
 
-# 🎯 Current Goals
+## 🌐 Conectá conmigo
 
-• Improve my **web development skills**  
-• Build and publish **real projects**  
-• Gain experience in **software development**  
-• Combine **technical repair knowledge with programming**
+💼 LinkedIn:  
+[LinkedIn de Maitte Hinc](https://www.linkedin.com/in/maitte-hinc-729657401)
 
 ---
 
-⭐ *Always learning, always building.*
+## 🎯 Objetivos actuales
+
+- Seguir creciendo en el desarrollo de soluciones digitales con IA
+- Aprender nuevas tecnologías y herramientas
+- Construir proyectos funcionales y reales
+- Combinar experiencia técnica con desarrollo digital moderno
+
+---
+
+⭐ *Siempre aprendiendo y construyendo nuevas soluciones.*
